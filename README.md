@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mitul Dudhat</h1>
 <h3 align="center">Passionate about my work</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitul2003&label=Profile%20views&color=0e75b6&style=flat" alt="mitul2003" /> </p>
 
@@ -16,7 +17,7 @@
 
 - 📫 How to reach me **mituldudhat42@gmail.com**
 
-- 📄 Know about my experiences [xxyyzz](xxyyzz)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iSWp_uKDChjX9-75ON7el4iokB_MFWiq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
