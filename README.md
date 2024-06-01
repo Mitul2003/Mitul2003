@@ -1,6 +1,6 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Mitul2003/Mitul2003/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Mitul Dudhat</h1>
-<h3 align="center">passionate about work</h3>
+<h3 align="center">Passionate about my work</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mitul2003?tab=repositories](https://github.com/Mitul2003?tab=repositories)
 
-- 💬 Ask me about **Data science file,**
+- 💬 Ask me about **Python, C++, Machine Learning, Data Structures and Algorithms, and Data Science.**
 
 - 📫 How to reach me **mituldudhat42@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mitul dudhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitul dudhat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mituldudhat2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitul dudhat" height="30" width="40" /></a>
 <a href="https://kaggle.com/mituldudhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mituldudhat" height="30" width="40" /></a>
 <a href="https://instagram.com/mitul_dudhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mitul_dudhat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mitul_1261" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mitul_1261" height="30" width="40" /></a>
