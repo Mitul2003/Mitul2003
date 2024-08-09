@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mituldudhat42@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iSWp_uKDChjX9-75ON7el4iokB_MFWiq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gc_gcdIx0b4avUFlGUiOG5NDb2Q4a40V/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
