@@ -1,23 +1,23 @@
 ![logo](https://github.com/Mitul2003/Mitul2003/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mitul Dudhat</h1>
-<h3 align="center">Passionate about my work</h3>
+<h3 align="center">Intern at Amazon</h3>
 
 
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitul2003&label=Profile%20views&color=0e75b6&style=flat" alt="mitul2003" /> </p>
 
-- I am a second-year Master's student in Data Science at DA-IICT.
+- I worked as a Business Analyst Intern at Amazon.
 
-- 🌱 I’m currently learning **Deep learning,NLP..**
+- 🌱 I’m currently learning **Data Engineer Tools..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mitul2003?tab=repositories](https://github.com/Mitul2003?tab=repositories)
 
-- 💬 Ask me about **Python, C++, Machine Learning, Data Structures and Algorithms, and Data Science.**
+- 💬 Ask me about **Python, SQL, C++, Machine Learning, Data Structures and Algorithms, and Data Science.**
 
-- 📫 How to reach me **mituldudhat42@gmail.com**
+- 📫 How to reach me **info.mituldudhat@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gc_gcdIx0b4avUFlGUiOG5NDb2Q4a40V/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zbyD5j7Gmv0jiR02PwDwbac3Xca4hkUZ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
