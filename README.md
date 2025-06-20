@@ -1,4 +1,4 @@
-![logo](https://github.com/Mitul2003/Mitul2003/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/Mitul2003/Mitul2003/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mitul Dudhat</h1>
 <h3 align="center">Passionate about my work</h3>
 
